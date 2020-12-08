@@ -16,6 +16,8 @@ Inspired by [anebz repository](https://github.com/anebz/papers).
 
 1. SECTOR: A Neural Model for Coherent Topic Segmentation and Classification - Arnold et al - 2019 [[Paper](https://arxiv.org/abs/1902.04793)] [[Notes](text_segmentation_classification/2019_SECTOR.md)]
 
+2. Chapter Captor: Text Segmentation in Novels - Pethe et al - 2020 [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.672/)] [[Notes](text_segmentation_classification/2020_Chapter_Captor.md)]
+
 ### Evaluation
 
 1. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList - Ribeiro et al - 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](evaluation/2020_CheckList.md)]

@@ -12,6 +12,10 @@ Inspired by [anebz repository](https://github.com/anebz/papers).
 
 2. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data - Lafferty et al - 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](architectures/2001_CRF.md)]
 
+### Named Entity Recognition
+
+1. Portuguese Named Entity Recognition using BERT-CRF - Souza et al - 2020 [[Paper](https://arxiv.org/pdf/1909.10649.pdf)] [[Notes](named_entity_recognition/2020_NER_BERT_CRF.md)]
+
 ### Text segmentation & classification
 
 1. SECTOR: A Neural Model for Coherent Topic Segmentation and Classification - Arnold et al - 2019 [[Paper](https://arxiv.org/abs/1902.04793)] [[Notes](text_segmentation_classification/2019_SECTOR.md)]

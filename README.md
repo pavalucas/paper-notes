@@ -24,6 +24,8 @@ Inspired by [anebz repository](https://github.com/anebz/papers).
 
 1. Portuguese Named Entity Recognition using BERT-CRF - Souza et al. - 2020 [[Paper](https://arxiv.org/pdf/1909.10649.pdf)] [[Notes](named_entity_recognition/2020_NER_BERT_CRF.md)]
 
+2. BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition - Schneider et al. - 2020 [[Paper](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)] [[Notes](named_entity_recognition/2020_BioBERTpt.md)]
+
 ### Text segmentation & classification
 
 1. SECTOR: A Neural Model for Coherent Topic Segmentation and Classification - Arnold et al. - 2019 [[Paper](https://arxiv.org/abs/1902.04793)] [[Notes](text_segmentation_classification/2019_SECTOR.md)]

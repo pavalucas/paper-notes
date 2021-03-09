@@ -16,6 +16,10 @@ Inspired by [anebz repository](https://github.com/anebz/papers).
 
 1. SemClinBr – a multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical NLP tasks - Oliveira et al. - 2020 [[Paper](https://arxiv.org/pdf/2001.10071.pdf)] [[Notes](corpus/2020_SemClinBr.md)]
 
+### Entity and Relation Extraction
+
+1. Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2020 - Piad-Morffis et al. - 2020 [[Paper](http://ceur-ws.org/Vol-2664/eHealth-KD_overview.pdf)] [[Notes](entity_and_relation_extraction/2020_Overview_eHealth.md)]
+
 ### Evaluation
 
 1. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList - Ribeiro et al. - 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](evaluation/2020_CheckList.md)]

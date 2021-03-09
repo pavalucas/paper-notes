@@ -1,6 +1,6 @@
 # Chapter Captor: Text Segmentation in Novels - Pethe et al - 2020
 
-## [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.672/)
+## 📌 [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.672/)
 
 ![images/Chapter_Captor_WOC.png](images/Chapter_Captor_WOC.png)
 

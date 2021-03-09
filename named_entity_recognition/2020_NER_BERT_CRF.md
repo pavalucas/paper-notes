@@ -1,6 +1,6 @@
 # Portuguese Named Entity Recognition using BERT-CRF - Souza et al - 2020
 
-## [Paper](https://arxiv.org/pdf/1909.10649.pdf)
+## 📌 [Paper](https://arxiv.org/pdf/1909.10649.pdf)
 
 ![images/bert_crf_model.png](images/bert_crf_model.png)
 

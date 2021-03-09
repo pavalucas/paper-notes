@@ -1,6 +1,6 @@
 # SECTOR: A Neural Model for Coherent Topic Segmentation and Classification
 
-## [Paper](https://arxiv.org/abs/1902.04793)
+## 📌 [Paper](https://arxiv.org/abs/1902.04793)
 
 ![images/SECTOR_modelo.jpg](images/SECTOR_modelo.jpg)
 

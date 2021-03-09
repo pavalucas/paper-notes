@@ -1,6 +1,6 @@
 # Beyond Accuracy: Behavioral Testing of NLP Models with CheckList - Ribeiro et al - 2020
 
-## [Paper](https://arxiv.org/abs/2005.04118)
+## 📌 [Paper](https://arxiv.org/abs/2005.04118)
 
 ![images/CheckList_overview.png](images/CheckList_overview.png)
 

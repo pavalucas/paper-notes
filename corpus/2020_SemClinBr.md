@@ -1,6 +1,6 @@
 # SemClinBr – a multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical NLP tasks - Oliveira et al - 2020
 
-## [Paper](https://arxiv.org/pdf/2001.10071.pdf)
+## 📌 [Paper](https://arxiv.org/pdf/2001.10071.pdf)
 
 ![images/SemClinBr.png](images/SemClinBr.png)
 
@@ -60,7 +60,7 @@ We decided to build our own tool, which is reported on [Oliveira et al. (2017)](
 
 Our corpus comprehended 100 UMLS semantic types representing the entities, 2 extra semantic types typifying Abbreviations and Negations, and 2 relationship types defining the relations between clinical entities.
 
-The annotation process was 100% double-annotated and adjudicated, and lasted 14 months, resulting in a corpus composed of 1,000 documents (148,033 tokens), with 65,129 entities and 11,263 relations labeled. 
+The annotation process was 100% double-annotated and adjudicated, and lasted 14 months, resulting in a corpus composed of 1,000 documents (148,033 tokens), with 65,129 entities and 11,263 relations labeled.
 
 ## Bio-NLP tasks application
 

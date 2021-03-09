@@ -1,6 +1,6 @@
 # BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition - Schneider et al. - 2020
 
-## [Paper](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)
+## 📌 [Paper](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)
 
 ![images/biobertpt_model.png](images/biobertpt_model.png)
 

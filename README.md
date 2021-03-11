@@ -20,6 +20,8 @@ Inspired by [anebz repository](https://github.com/anebz/papers).
 
 1. Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2020 - Piad-Morffis et al. - 2020 [[Paper](http://ceur-ws.org/Vol-2664/eHealth-KD_overview.pdf)] [[Notes](entity_and_relation_extraction/2020_Overview_eHealth.md)]
 
+2. Vicomtech at eHealth-KD Challenge 2020: Deep End-to-End Model for Entity and Relation Extraction in Medical Text - García-Pablos et al. - 2020 [[Paper](http://ceur-ws.org/Vol-2664/eHealth-KD_paper3.pdf)] [[Notes](entity_and_relation_extraction/2020_Vicomtech_eHealth.md)]
+
 ### Evaluation
 
 1. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList - Ribeiro et al. - 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](evaluation/2020_CheckList.md)]
